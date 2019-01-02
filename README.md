@@ -1,6 +1,5 @@
 # End-to-end Autopilot for self-driving cars using Tensorflow
 
-## Summary
 An end-to-end system for navigation instead of explicit decomposition of problem into lane marking detection, path planning and control, using images taken from dashcam of a car (66k images)
 
 ## Flow
